@@ -1,4 +1,4 @@
-### Olá 😊! Meu nome é Eduardo Francisco  
+### Olá! Meu nome é Eduardo Francisco  
 
 ## SKILLS:
 
