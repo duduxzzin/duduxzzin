@@ -11,4 +11,7 @@
 ## STATS:
 ![duduxzzin GitHub stats](https://github-readme-stats.vercel.app/api?username=duduxzzin&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduxzzin&layout_donut=true&theme=dark)](https://github.com/duduxzzin/github-readme-stats)
 
+##
+![](https://i.gifer.com/Q5N4.gif)
+
 
