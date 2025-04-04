@@ -1,6 +1,6 @@
 ## ⚫ Eduardo Francisco  
 **`Desenvolvedor Fullstack`**   
-Meu nome é Eduardo Francisco Mauro Gonçalves, eu moro em São Paulo e no momento estou cursando Engenharia de Software na FIAP, em poucos meses descobri que sou louco por tecnologia, adoro resolver problemas, criar projetos e aprender coisas novas. 
+#### Meu nome é Eduardo Francisco Mauro Gonçalves, eu moro em São Paulo e no momento estou cursando Engenharia de Software na FIAP, em poucos meses descobri que sou louco por tecnologia, adoro resolver problemas, criar projetos e aprender coisas novas. 
 #
 ## SKILLS:
 
