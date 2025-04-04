@@ -11,5 +11,4 @@
 ## STATS:
 ![duduxzzin GitHub stats](https://github-readme-stats.vercel.app/api?username=duduxzzin&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduxzzin&layout_donut=true&theme=dark)](https://github.com/duduxzzin/github-readme-stats)
 
-## 
-![](https://img.goodfon.com/original/3840x2160/e/f0/hieroglyphs-japanese-nasa-logo-minimalism-chernyi-fon-black.jpg)
+
