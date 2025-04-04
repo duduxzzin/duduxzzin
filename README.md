@@ -1,5 +1,7 @@
 ## ⚫ Eduardo Francisco  
-
+**`Desenvolvedor Fullstack`**   
+Meu nome é Eduardo Francisco Mauro Gonçalves, eu moro em São Paulo e no momento estou cursando Engenharia de Software na FIAP, em poucos meses descobri que sou louco por tecnologia, adoro resolver problemas, criar projetos e aprender coisas novas. 
+#
 ## SKILLS:
 
 [![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()[![Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)]()[![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()[![Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
