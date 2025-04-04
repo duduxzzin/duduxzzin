@@ -1,4 +1,4 @@
-### Olá! Eu sou o Eduardo Francisco Mauro Gonçalves 😁
+### Olá! Eu sou o Eduardo Francisco 😁
 
 ## SKILLS:
 
