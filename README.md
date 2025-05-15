@@ -14,7 +14,4 @@
 ![duduxzzin GitHub stats](https://github-readme-stats.vercel.app/api?username=duduxzzin&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duduxzzin&theme=dark)](https://github.com/duduxzzin/github-readme-stats)
 ##
-![](https://i.gifer.com/Q5N4.gif)
-
-
-
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjU4ZDM3eWsxYjZzbTU2ZTR3MG84bTB2b3Q1MWt2NG9mYmV6eHZqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8kVeBt7hc1m7du/giphy.gif).
