@@ -11,7 +11,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-francisco-b78139356/)[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duduxzzin/)[![Social](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com)[![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u)
 
 ## STATS:
-![duduxzzin GitHub stats](https://github-readme-stats.vercel.app/api?username=duduxzzin&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duduxzzin&theme=dark)](https://github.com/duduxzzin/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duduxzzin&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduxzzin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ##
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t4MzZteG5wb2RmN3phcDNsZHEzdmUwY2hpeHd2cDZkMXJhNW84cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8MKABdDxtEj8k0/giphy.gif)
